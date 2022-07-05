@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  color: purple;
+}
+
+table {
+  border: 2px solid purple;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: plum;
+}
+
+td {
+  border-top: 1px solid purple;
+}
